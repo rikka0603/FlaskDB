@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2665154",
+      "name": "大象",
+      "font_class": "daxiang",
+      "unicode": "e778",
+      "unicode_decimal": 59256
+    }
+  ]
+}
